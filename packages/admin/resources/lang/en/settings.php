@@ -178,4 +178,10 @@ return [
      */
     'customer-groups.create.title' => 'Create Customer Group',
     'customer-groups.form.default_instructions' => 'Set whether this customer group should be the default',
+    /**
+     * Section names.
+     */
+    'section.store' => 'Store',
+    'section.products' => 'Products',
+    'section.admin' => 'Admin',
 ];
